@@ -10,7 +10,7 @@ This repository contains a highly accurate Trading Sessions indicator designed e
 
 ## Preview
 
-![Trading Sessions Indicator](trading%20sessions.png)
+![Trading Sessions Indicator](trading_sessions.png)
 
 ## Installation
 
